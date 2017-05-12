@@ -41,6 +41,4 @@ public class Spider {
         System.out.println(String.format("**Done** Visited %s web page(s)", this.pagesVisited.size()));
     }
 
-
-
 }
